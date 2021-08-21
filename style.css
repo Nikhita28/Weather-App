@@ -95,7 +95,8 @@ nav{
     }
     nav ul li.logo{
        padding-left: 20px;
-       font-size: 25px;
+       font-size: 20px;
+       padding-right: 10px;
     }
     nav{
       z-index: 1;
